@@ -1,5 +1,3 @@
 # -1-
-PC版『メタルギアソリッド2 サブスタンス』（2003〜2020年発売）をAndroidおよびiOSでネイティブ動作させるためのリコンパイルプロジェクト
-
-# -2-
-では、『MGS2 サブスタンス』とは何でしょうか？ 『MGS2 サブスタンス』は元々、2001年にPS2で発売された『MGS2』のXbox向けバージョンであり、2003年頃にPCへ移植され、2020年頃にGOG（Good Old Games）で再移植されたものです
+ZeroesVTapes is a Metal Gear Solid V Ground Zeroed themed Music Player.
+It includes full Ground Zeroes's UI, Cassette and can play your own music too you, support Lossless and MP3. You can get a MP3, Lossless from the internet.
